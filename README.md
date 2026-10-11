@@ -60,7 +60,7 @@ Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Perubahan akan
 Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, hubungi:
 
 - **Pengembang:** Zuder
-- **Email:** *[isi alamat email Anda]*
+- **Email:** sajudin.ssk@gmail.com
 
 ---
 
@@ -126,4 +126,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 If you have questions about this Privacy Policy, contact:
 
 - **Developer:** Zuder
-- **Email:** *[enter your email address]*
+- **Email:** sajudin.ssk@gmail.com
